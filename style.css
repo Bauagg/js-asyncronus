@@ -1,0 +1,8 @@
+.container {
+    margin-top: 80px;
+}
+
+#search-btn {
+    cursor: pointer;
+    color: white;
+}
